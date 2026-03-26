@@ -2,7 +2,7 @@
 
 **Open, high-speed hardware. Built with Love. Powered by community.**
 
-LibreHard is an open-source hardware initiative focused on designing high-speed enterprise hardware. The hardware is designed using full custom tools.
+OpenHardware is an open-source hardware initiative focused on designing high-speed enterprise hardware. The hardware is designed using full custom tools.
 
 We build not just hardware — but an ecosystem around transparency, collaboration, and innovation.
 
@@ -22,8 +22,8 @@ We build not just hardware — but an ecosystem around transparency, collaborati
 
 | Repo | Description |
 |------|-------------|
-| [`lbrtool`](https://github.com/LibreHard/lbrtool) | Custom Build Toolset |
-| [`lbrsoc`](https://github.com/LibreHard/lbrsoc) | Custom Build SoC |
+| [`lbrtool`](https://github.com/OpenHardwarellc/lbrtool) | Custom Build Toolset |
+| [`lbrsoc`](https://github.com/OpenHardwarellc/lbrsoc) | Custom Build SoC |
 
 
 ---
@@ -72,4 +72,4 @@ All designs and code in this organization are released under [CERN-OHL-W](https:
 
 > “The board is not the product — the freedom to build is.”
 
-– The LibreBoards Team
+– The OpenHardwareLLC Team
